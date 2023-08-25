@@ -2,4 +2,4 @@
 
 Ferdowsi University of Mashhad Web Programming Hotel Search UI
 
-a simple HTML Page for Hotel Search
+a simple HTML,CSS Page for Hotel Search
