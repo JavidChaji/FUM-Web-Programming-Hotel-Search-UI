@@ -58,6 +58,3 @@ a simple HTML,CSS Page for Hotel Search
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
-
-<!-- Product-Screenshot -->
-[Product-Screenshot]: images/screenshot.png
