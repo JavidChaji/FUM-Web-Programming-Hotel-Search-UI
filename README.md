@@ -48,6 +48,10 @@ a simple HTML,CSS Page for Hotel Search
 </details>
 
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Hotel UI][Product-Screenshot]][Product-URL]
 
 
 
@@ -168,8 +172,12 @@ Use this space to list resources you find helpful and would like to give credit 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
 
 
-
-
+<!-- HTML -->
 [HTML-Shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+
 [HTML-url]: https://html.spec.whatwg.org/
 
+
+[Product-Screenshot]: Images/Screenshot.png
+
+[Product-URL]: .
